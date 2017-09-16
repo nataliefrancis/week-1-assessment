@@ -7,15 +7,20 @@ body {
 	display: inline-block;
 }
 
+/* Phone picture-left side of page*/
+
 .phones {
 	float: left;
 	padding: 120px 60px 60px 100px;
 }
 
+/*Beginning of right side of page*/
+
 main {
 	width: 475px;
 	float: right;
 }
+/* Top section with two logos*/
 
 .logo-pic {
 	padding-top: 120px;
@@ -38,6 +43,8 @@ button img {
 	float: left;
 }
 
+/* Main Section with text*/
+
 section {
 	background: linear-gradient(to bottom, #E7EFF3 10%, #FFFFFF);
 	background-repeat: no-repeat;
@@ -55,11 +62,15 @@ h1 {
 	line-height: 125%;
 }
 
+/* Two download buttons*/
+
 .downloads {
 	float: left;
 	margin-left: 50px;
 	padding-top: 20px
 }
+
+/* Bottom Menu */
 
 footer {
 	height: 100px;
