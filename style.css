@@ -1,5 +1,5 @@
 body {
-	background: linear-gradient(to top, #186389 60%, #2599D2);
+	background: linear-gradient(to top, #186389 50%, #2599D2);
 	background-repeat: no-repeat;
 	background-size: 100% 40%;
 	font-family: sans-serif;
@@ -20,7 +20,7 @@ main {
 	width: 475px;
 	float: right;
 }
-/* Top section with two logos*/
+/* Top section with two icons*/
 
 .logo-pic {
 	padding-top: 120px;
